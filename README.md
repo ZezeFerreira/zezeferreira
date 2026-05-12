@@ -2,7 +2,10 @@
 
 **`Ciência da computação`**
 
-Me chamo José Matheus, tenho 27 anos e sou natural de Minas Gerais. Atualmente estudo Ciência da Computação na UNINTER.
+🎓 Estudante de Ciência da Computação  
+💻 Desenvolvedor focado em Python, APIs e Dados  
+📊 Estudando SQL, Power BI e desenvolvimento backend  
+🚀 Buscando evoluir em projetos reais e entrar cada vez mais no mercado de tecnologia
 
 ---
 
